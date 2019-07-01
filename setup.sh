@@ -9,7 +9,7 @@ apt upgrade
 apt-get install figlet
 apt-get install tsu
 apt-get install toilet
-cp -f Maruf.zip /data/data/com.termux/files/home
+cp
 chmod 777 -R /data/data/com.termux/files/home/Maruf
 unzip /data/data/com.termux/files/home/Maruf.zip
 cp -f unpackall /data/data/com.termux/files/usr/bin
