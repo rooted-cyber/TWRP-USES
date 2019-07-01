@@ -1,2 +1,2 @@
 #!/data/data/com.termux/files/usr/bin/sh
-bash $HOME/.Twrp.sh
+bash $HOME/TWRP-USES/.Twrp.sh
