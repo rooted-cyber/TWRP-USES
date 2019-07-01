@@ -23,4 +23,4 @@ chmod 777 /data/data/com.termux/files/usr/bin/Twrp
 sleep 5
 toilet -f standard -F gay Complete
 echo
-echo "Now you can use \033[1;96m Twrp \033[1;92m Command"
+echo -e "Now you can use \033[1;96m Twrp \033[1;92m Command"
