@@ -1,3 +1,0 @@
-#!/data/data/com.termux/files/usr/bin/sh
-base $HOME/Maruf/Port/.repackimg.sh
-base $HOME/Maruf/Stock/.repackimg.sh
