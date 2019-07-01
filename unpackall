@@ -1,3 +1,0 @@
-#!/data/data/com.termux/files/usr/bin/sh
-tsu -c base /data/data/com.termux/files/home/TWRP-USES/Maruf/Port/.unpackimg.sh
-tsu -c base /data/data/com.termux/files/home/TWRP-USES/Maruf/Stock/.unpackimg.sh
